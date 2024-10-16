@@ -1,0 +1,81 @@
+.warna1{
+    background-color: #D6EFD8;
+}
+
+.warna2 {
+    background-color: #80AF81;
+}
+
+.warna3 {
+    background-color: #508D4E;
+}
+
+.warna4 {
+    background-color: #1A5319;
+}
+
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/banner1.jpg');
+}
+
+.top-category{
+    height: 250px;
+}
+
+.pig-category {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/pig-kategori.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.bird-category {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/bird-kategori.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.dog-category {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/rsz_dog-category.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover{
+    color: #80AF81;
+}
+
+.text-harga{
+    font-size: 20px;
+    color: #508D4E;
+}
+
+.image-box {
+    height: 250px;
+}
+
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.content-subscribe a {
+    color: #fff;
+}
+
+.banner2 {
+    height: 30vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/banner1.jpg');
+    background-position: 50% 30%;
+}
